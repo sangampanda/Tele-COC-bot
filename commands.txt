@@ -1,0 +1,8 @@
+/start - Start the bot
+/regme - Register Yourself
+/myinfo - Shows your info
+/botinfo - Shows Bot info
+/player - Shows Player info
+/clan - Shows Clan info
+/war - Shows Clan's current war info
+/help - Shows commands you can use
