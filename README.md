@@ -1,2 +1,2 @@
-# Tele-COC-bot using python
+# Tele-COC-bot using Python
 
